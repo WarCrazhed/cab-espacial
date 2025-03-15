@@ -14,7 +14,7 @@ export const SpaceCabin = () => {
     };
 
     return (
-        <div className="container mx-auto p-2 h-screen bg-center bg-cover rounded-tr-full rounded-bl-full"
+        <div className="container mx-auto p-2 h-screen bg-center bg-cover rounded-tr-full rounded-bl-full mb-10"
             style={{
                 backgroundImage: `url(${planets[currentPlanet].src})`,
             }}
