@@ -9,13 +9,7 @@ export const Home = ({ setShowSpaceCabin }) => {
             <Lottie />
             <div className="space-y-4 text-2xl font-medium mb-10">
                 <h2>
-                    Camila Villa
-                </h2>
-                <h2>
-                    Ángel Adrián
-                </h2>
-                <h2>
-                    Michelle Simancas
+                    Mario Zamora
                 </h2>
             </div>
             <button
